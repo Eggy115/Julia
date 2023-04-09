@@ -1,6 +1,6 @@
-# Julia Programs and Scripts Repository
+# Julia
 
-Welcome to my Julia programs and scripts repository! Here, you'll find a collection of Julia programs and scripts I've written over time.
+Welcome to my Julia programs and scripts repository! Here, you'll find a collection of Julia programs and scripts.
 
 ## Table of Contents
 
